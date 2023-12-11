@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1648485000 source:e:\lthtm\ftpclient\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647552658 e:\lthtm\ftpclient\cli.h
+	<string>
+
+1654144490 source:e:\lthtm\ftpclient\main.cpp
+	<iostream>
+	"ftpcli.h"
+
+1647611920 source:e:\lthtm\ftpclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1647611916 e:\lthtm\ftpclient\socket.h
+	<string>
+	<exception>
+
+1657971225 source:e:\lthtm\ftpclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1657983566 e:\lthtm\ftpclient\tcpclient.h
+	"tcpsocket.h"
+
+1648487334 e:\lthtm\ftpclient\tcpsocket.h
+	"socket.h"
+
+1648487744 source:e:\lthtm\ftpclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1658044329 source:e:\lthtm\ftpclient\ftpcli.cpp
+	"ftpcli.h"
+	<iostream>
+
+1658044268 e:\lthtm\ftpclient\ftpcli.h
+	"cli.h"
+	"ftptcpclient.h"
+
+1658044184 e:\lthtm\ftpclient\ftptcpclient.h
+	"tcpclient.h"
+
+1658044374 source:e:\lthtm\ftpclient\ftptcpclient.cpp
+	"ftptcpclient.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1648485000 source:e:\lthtm\ftpclienttest\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647552658 e:\lthtm\ftpclienttest\cli.h
+	<string>
+
+1658044329 source:e:\lthtm\ftpclienttest\ftpcli.cpp
+	"ftpcli.h"
+	<iostream>
+
+1658044268 e:\lthtm\ftpclienttest\ftpcli.h
+	"cli.h"
+	"ftptcpclient.h"
+
+1658044184 e:\lthtm\ftpclienttest\ftptcpclient.h
+	"tcpclient.h"
+
+1657983566 e:\lthtm\ftpclienttest\tcpclient.h
+	"tcpsocket.h"
+
+1648487334 e:\lthtm\ftpclienttest\tcpsocket.h
+	"socket.h"
+
+1647611916 e:\lthtm\ftpclienttest\socket.h
+	<string>
+	<exception>
+
+1658055304 source:e:\lthtm\ftpclienttest\ftptcpclient.cpp
+	"ftptcpclient.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1654144490 source:e:\lthtm\ftpclienttest\main.cpp
+	<iostream>
+	"ftpcli.h"
+
+1647611920 source:e:\lthtm\ftpclienttest\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1657971225 source:e:\lthtm\ftpclienttest\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1648487744 source:e:\lthtm\ftpclienttest\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1648485000 source:e:\lthtm\ftpclientofficial\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647552658 e:\lthtm\ftpclientofficial\cli.h
+	<string>
+
+1658044329 source:e:\lthtm\ftpclientofficial\ftpcli.cpp
+	"ftpcli.h"
+	<iostream>
+
+1658044268 e:\lthtm\ftpclientofficial\ftpcli.h
+	"cli.h"
+	"ftptcpclient.h"
+
+1658078681 e:\lthtm\ftpclientofficial\ftptcpclient.h
+	"tcpclient.h"
+
+1657983566 e:\lthtm\ftpclientofficial\tcpclient.h
+	"tcpsocket.h"
+
+1648487334 e:\lthtm\ftpclientofficial\tcpsocket.h
+	"socket.h"
+
+1647611916 e:\lthtm\ftpclientofficial\socket.h
+	<string>
+	<exception>
+
+1658077795 source:e:\lthtm\ftpclientofficial\ftptcpclient.cpp
+	"ftptcpclient.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1654144490 source:e:\lthtm\ftpclientofficial\main.cpp
+	<iostream>
+	"ftpcli.h"
+
+1647611920 source:e:\lthtm\ftpclientofficial\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1657971225 source:e:\lthtm\ftpclientofficial\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1648487744 source:e:\lthtm\ftpclientofficial\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
